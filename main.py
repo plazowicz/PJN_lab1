@@ -72,7 +72,7 @@ if __name__ == "__main__":
     language_to_data_mapping_json_path = 'data/language_to_data_mapping.json'
     data_root_path = 'data'
 
-    n_range = list(xrange(0, 7))
+    n_range = list(xrange(0, 11))
     curves_directory = 'data/curves'
     test_directory = 'data/test'
 
